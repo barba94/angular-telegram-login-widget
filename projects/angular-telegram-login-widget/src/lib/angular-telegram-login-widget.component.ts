@@ -12,7 +12,7 @@ import {
 import {DOCUMENT} from '@angular/common';
 import {User, WidgetConfiguration} from './types';
 
-const TELEGRAM_WIDGET_VERSION = 14;
+const TELEGRAM_WIDGET_VERSION = 22;
 const randomSeed = parseInt(`${Math.random() * 1e7}`);
 
 @Component({
